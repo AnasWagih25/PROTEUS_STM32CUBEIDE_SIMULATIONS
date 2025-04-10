@@ -15,7 +15,6 @@ Each bit turns on and off in a pattern that reflects the countdown.
 ## Components Used
 
 - 4 LEDs (representing each bit)
-- Resistors for LED current limiting
 - Microcontroller (STM32F103C8) to control the LED states
 - Proteus software for simulation
 
