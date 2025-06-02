@@ -10,7 +10,7 @@ This project simulates an **Electric Vehicle (EV) electronics system** for racin
 - Built using STM32CubeIDE and STM32 HAL libraries
 - Intended for EV simulation and testing environments
 
-## 🔧 Hardware
+## 🔧 Tools
 
 - **Microcontroller:** STM32F103C8 ("Blue Pill")
 - **Displays:**
@@ -24,7 +24,7 @@ This project simulates an **Electric Vehicle (EV) electronics system** for racin
 - **IDE:** STM32CubeIDE
 - **Language:** C (HAL drivers)
 - **Debugger:** ST-Link or USB-TTL (via bootloader)
-- **Simulation:** Hardware-based, no Proteus used
+- **Simulation:** Proteus 
 
 ## 📁 Project Structure
 
