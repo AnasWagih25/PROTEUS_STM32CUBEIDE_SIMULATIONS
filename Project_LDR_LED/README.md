@@ -8,7 +8,7 @@ This project demonstrates an **LDR (Light Dependent Resistor) based LED and Rela
 - **Software:** STM32CubeIDE  
 - **Sensor:** LDR for ambient light detection  
 - **Output:** LED and Relay module  
-- **Simulation:** Not used (hardware-based only)
+- **Simulation:** Proteus
 
 ## ⚙️ Features
 
