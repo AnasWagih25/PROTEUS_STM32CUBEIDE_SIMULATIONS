@@ -112,7 +112,4 @@ LDR_LED_Relay_STM32/
 
 MIT License — Feel free to use, modify, and distribute!
 
----
-
-Made with 💡 by [Your Name]
 
